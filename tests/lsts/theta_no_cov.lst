@@ -449,6 +449,32 @@ Days until program expires : 273
  
 
 
+ OMEGA - COV MATRIX FOR RANDOM EFFECTS - ETAS  ********
+
+
+         ETA1      ETA2      ETA3      ETA4      ETA5      ETA6      ETA7     
+ 
+ ETA1
++        2.00E-01
+ 
+ ETA2
++        0.00E+00  2.55E-01
+ 
+ ETA3
++        0.00E+00  0.00E+00  1.00E-01
+ 
+ ETA4
++        0.00E+00  0.00E+00  1.00E-02  1.00E-01
+ 
+ ETA5
++        0.00E+00  0.00E+00  0.00E+00  0.00E+00  1.00E-05
+ 
+ ETA6
++        0.00E+00  0.00E+00  0.00E+00  0.00E+00  0.00E+00  1.00E-05
+ 
+ ETA7
++        0.00E+00  0.00E+00  0.00E+00  0.00E+00  0.00E+00  0.00E+00  1.00E-05
+
 
 
  SIGMA - COV MATRIX FOR RANDOM EFFECTS - EPSILONS  ****
